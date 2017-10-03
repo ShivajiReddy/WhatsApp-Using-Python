@@ -13,7 +13,7 @@ driver.get("https://web.whatsapp.com/")
 # time.sleep(20)
 wait = WebDriverWait(driver, 300)
 
-# Replace 'Yash's with the name of your friend 
+# Replace 'Yash' with the name of your friend 
 # or the name of a group 
 target = '"Yash"'
 
