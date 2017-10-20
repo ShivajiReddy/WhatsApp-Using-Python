@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 import time
 
 # Replace below path with the absolute path
-# to chromedriver in your computer
+# to the chromedriver in your computer
 driver = webdriver.Chrome('/usr/local/share/chromedriver')
 
 driver.get("https://web.whatsapp.com/")
